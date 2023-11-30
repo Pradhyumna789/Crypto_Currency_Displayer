@@ -1,7 +1,7 @@
 ## Overview 
 
 
-Crypto_Currency_Displayer![Screenshot 2023-11-30 223625](https://github.com/Pradhyumna789/Crypto_Currency_Displayer/assets/45138354/d9c4a2d4-efa3-4357-811b-1137f6cadd13)
+![Screenshot 2023-11-30 223625](https://github.com/Pradhyumna789/Crypto_Currency_Displayer/assets/45138354/d9c4a2d4-efa3-4357-811b-1137f6cadd13)
 
 
 ![Screenshot 2023-11-30 223636](https://github.com/Pradhyumna789/Crypto_Currency_Displayer/assets/45138354/953a679b-b789-4429-a637-ed8347073ecc)
